@@ -1,0 +1,29 @@
+.patient_form {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0 0 45rem;
+    width: 15rem;
+    height: 33rem;
+    font-size: 14px;
+    padding: 1rem;
+    row-gap: 1rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    
+}
+.patient_container_head{
+    margin: 5rem 0 0 47rem;
+}
+.patient_form label{
+    font-size: 15px;
+}
+.patient_form input{
+    font-size: 18px;
+}
+.patient_form select{
+    display: flex;
+    width: 14rem;
+    font-size: 20px;
+    padding: 0.1rem;
+}
